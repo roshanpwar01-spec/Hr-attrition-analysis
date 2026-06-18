@@ -135,17 +135,17 @@ A 3-page interactive report built on the cleaned dataset.
 ### 1. Overview
 KPI cards for headcount, attrition rate, average monthly income, and average tenure; attrition rate by department; attrition rate by age trend; a hierarchy slicer (Department → Gender → Age) for cross-filtering.
 
-![Overview page](images/overview_page.png)
+![overview] imagesoverview_page.png.png
 
 ### 2. Attrition Deep Dive
 Income vs. tenure scatter plot colored by attrition; a Salary Band × Tenure Band matrix highlighting the highest-risk segments; attrition by marital status; attrition by work-life balance rating.
 
-![Attrition Deep Dive page](images/deep_dive_page.png)
+![Attrition Deep Dive page]imagesdeep_dive_page.png.png
 
 ### 3. Satisfaction & Demographics
 Attrition by gender and education field; attrition broken out by job, environment, and relationship satisfaction scores.
 
-![Satisfaction & Demographics page](images/satisfaction_page.png)
+![Satisfaction & Demographics page]imagessatisfaction_page.png.png
 
 KPI cards and attrition-rate visuals are powered by DAX measures; pages support drill-through navigation between the summary view and detail pages.
 
@@ -162,3 +162,4 @@ KPI cards and attrition-rate visuals are powered by DAX measures; pages support 
 MSc Data Science & Statistics, Graphic Era Hill University
 
 [LinkedIn](#) · [GitHub](#)
+
