@@ -91,7 +91,7 @@ END;
 
 ## SQL Analysis
 
-Exploratory analysis covered attrition breakdowns, compensation patterns, and demographic distributions. A few representative queries (full set in (sql/filename.sql)):
+Exploratory analysis covered attrition breakdowns, compensation patterns, and demographic distributions. A few representative queries (full set in ['sql](sql/filename.sql)):
 
 ```sql
 -- Overall attrition rate
